@@ -1,41 +1,52 @@
+# 🎙️ Projeto Podcast Gerado por I.A.s
 
+> ℹ️ **Nota:** Este repositório foi desenvolvido durante uma live no YouTube em parceria com a [DIO](https://dio.me).
 
-# Projeto Podcast Gerado por I.A.s
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de Inteligência Artificial, por meio de uma esteira de *prompts* cuidadosamente elaborada para automatizar cada etapa do processo criativo.
 
+---
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+## 💻 Tecnologias Utilizadas
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+- [ChatGPT](https://chat.openai.com/) – geração de roteiros e ideias
+- [MidJourney](https://www.midjourney.com/app/) – criação de capas e artes visuais
+- [ElevenLabs](https://beta.elevenlabs.io/) – conversão de texto em áudio realista
+- [CapCut](https://www.capcut.com/pt-br/) – edição de áudio e inserção de trilhas sonoras
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+---
 
-## 💻 Tecnologias utilizadas no projeto
+## ✨ Como Foi Feito?
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- 📝 Roteiro gerado via **ChatGPT**
+- 🎙️ Áudio produzido com **ElevenLabs**
+- 🎨 Capas criadas no **MidJourney**
+- 🎧 Edição de áudio e inserção de sons feita no **CapCut**
 
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+---
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- 📺 [Link da live no YouTube](https://www.youtube.com)
+- 🧾 [Template no Notion](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- 🎛️ [Editor de Áudio (CapCut)](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
+---
 
-## 🛠️ Instruções de execução
+## 🛠️ Instruções de Execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Para criar seu podcast com I.A. de forma automatizada, siga os passos abaixo utilizando os *prompts* disponíveis no link do Notion:
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+1. 🤖 Use os **prompts de roteiro** no ChatGPT.
+2. 🎙️ Gere o **áudio** do roteiro usando ElevenLabs.
+3. 🎨 Crie a **arte da capa** com os prompts no MidJourney.
+4. 🎧 Faça a edição final no CapCut, adicionando sons de fundo e finalizando seu episódio.
+
+---
+
+## 📌 Observação
+
+> Este projeto foi baseado em um repositório de base utilizado durante a live. A partir dele, foram feitas personalizações no código, melhorias nos prompts e adaptações no fluxo, com o objetivo de tornar o processo mais criativo e automatizado.
+
+---
 
 
